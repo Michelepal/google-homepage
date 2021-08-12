@@ -1,12 +1,28 @@
 .left-side {
     display:inline-flex;
     gap: 10px;
+    
 }
 
 .right-side {
     display:inline-flex;
     gap: 10px;
     float: right;
+    margin-right: auto;
+}
+
+.logo {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 50%;
+  border: solid red;
+
+
+
+
 }
 
 
