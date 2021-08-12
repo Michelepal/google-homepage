@@ -18,11 +18,16 @@
   margin-right: auto;
   margin-top: 40px;
   width: 50%;
-  border: solid red;
 
 
+}
 
+.input {
 
+   text-align: center;
+   margin-left: auto;
+   margin-right:auto;
+    
 }
 
 
