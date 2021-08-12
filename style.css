@@ -1,0 +1,12 @@
+.left-side {
+    display:inline-flex;
+    gap: 10px;
+}
+
+.right-side {
+    display:inline-flex;
+    gap: 10px;
+    float: right;
+}
+
+
